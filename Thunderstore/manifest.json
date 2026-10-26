@@ -1,7 +1,7 @@
 ﻿{
 	"name": "ShapedGlassRebalance",
 	"version_number": "1.0.0",
-	"website_url": "",
+	"website_url": "https://github.com/Slendykray/ShapedGlassRebalance",
 	"description": "Enables one shot protection with shaped glass, shrine of shaping, etc",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.2108",
