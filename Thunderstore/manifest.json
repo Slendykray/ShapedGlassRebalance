@@ -1,12 +1,11 @@
 ﻿{
 	"name": "ShapedGlassRebalance",
-	"version_number": "1.0.0",
+	"version_number": "1.0.1",
 	"website_url": "https://github.com/Slendykray/ShapedGlassRebalance",
 	"description": "Enables one shot protection with shaped glass, shrine of shaping, etc",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.2108",
 		"RiskofThunder-HookGenPatcher-1.2.3",
-		"RiskofThunder-R2API_Core-5.3.0",
 		"Rune580-Risk_Of_Options-2.8.6"
 	]
 }
